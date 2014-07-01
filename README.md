@@ -1,4 +1,4 @@
-mct-canbus
-==========
+# Maesto Configuration Tool CANBUS Kütüphanesi
 
-Maestro Configuration Tool CANBUS Library
+Bu projede, MCT yazýlýmýnýn, Maestro cihazý ile CANBUS üzerinden haberleþmesi
+gerçekleþtirilecektir.
