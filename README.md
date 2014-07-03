@@ -21,3 +21,5 @@ dokumantasyon, mct-canbus.h dosyasi icerisinde yazilacaktir.
 
 * Derleyiciye yazýlan yorumlar doxgyen dökümantasyon sistemi ile bir araya getirilir.
 
+* Camel notation 2 kelimeli deðiþkenlerin birinci kelimenin küçük, ikinci kelimenin büyük harfler baþlamasýdýr.
+
