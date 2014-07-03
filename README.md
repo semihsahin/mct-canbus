@@ -15,5 +15,9 @@ bozulmamis olur. Space indent problem yaratiyor.
 * Projenin ciktilari mct-canbus.h ve libmctcanbus.so veya libmctcanbus.a olacaktir. 
 
 * Yazilan fonksiyonlarin ve kutuphanenin dokumantasyonunda Doxygen kullanilacaktir. Doxygen tabanli 
-dokumantasyon, mct-canbus.h dosyasi icerisinde yazilacaktir. 
+dokumantasyon, mct-canbus.h dosyasi icerisinde yazilacaktir.
+
+### Öðrenilenler
+
+* Derleyiciye yazýlan yorumlar doxgyen dökümantasyon sistemi ile bir araya getirilir.
 
